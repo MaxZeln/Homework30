@@ -1,0 +1,13 @@
+package ru.learnup.learnup.spring.mvc.homework30;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Homework28ApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
